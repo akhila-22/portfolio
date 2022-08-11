@@ -32,7 +32,7 @@ img{
    max-height: 200px;
 }
 
-.social-icons a {
+/*.social-icons a {
     justify-content: center;
     color: #692121;
     border-radius: 50%;
@@ -42,7 +42,7 @@ img{
 .social-icons a:hover{
     color: azure;
 
-}
+}*/
 
 
 p{
@@ -54,3 +54,5 @@ p{
     font-size: 30px;
 
 }
+
+/*<span class="mr=3 iconify" data-icon="fa:snapchat"></span>
